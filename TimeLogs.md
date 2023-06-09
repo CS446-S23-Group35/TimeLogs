@@ -1,7 +1,7 @@
 This holds the time logs for the CS446 project.
 
 |Date (MM/DD)| Group Member |Task|Time Started|Length of Time (h)|
-|------------|--------------|----|--------------|
+|------------|--------------|----|------------|--------------|
 |05/16| Misha        |Idea Brainstorming|2:30pm|3.5|
 |05/16| Ahmed        |Idea Brainstorming|2:30pm|3.5|
 |05/16| Snehit       |Idea Brainstorming|2:30pm|3.5|
