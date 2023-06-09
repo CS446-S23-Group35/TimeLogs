@@ -1,12 +1,20 @@
 This holds the time logs for the CS446 project.
 
-|Date (MM/DD)| Group Member |Task|Length of Time (h)|
+|Date (MM/DD)| Group Member |Task|Time Started|Length of Time (h)|
 |------------|--------------|----|--------------|
-|05/16| Misha        |Idea Brainstorming|3.5|
-|05/16| Ahmed        |Idea Brainstorming|3.5|
-|05/16| Snehit       |Idea Brainstorming|3.5|
-|05/16| Sarvesh        |Idea Brainstorming|3.5|
-|05/28| Misha        |Proposal work|2|
-|05/28| Ahmed        |Proposal work|2|
-|05/28| Snehit       |Proposal work|2|
-|05/28| Sarvesh       |Proposal work|2|
+|05/16| Misha        |Idea Brainstorming|2:30pm|3.5|
+|05/16| Ahmed        |Idea Brainstorming|2:30pm|3.5|
+|05/16| Snehit       |Idea Brainstorming|2:30pm|3.5|
+|05/16| Sarvesh        |Idea Brainstorming|2:30pm|3.5|
+|05/28| Misha        |Proposal work|5:30pm|2|
+|05/28| Ahmed        |Proposal work|5:30pm|2|
+|05/28| Snehit       |Proposal work|5:30pm|2|
+|05/28| Sarvesh       |Proposal work|5:30pm|2|
+|05/29|Misha|Mockup UI (Figma)|4:00pm|3|
+|05/30|Misha|Mockup Work (Figma) and Presentation|7:00pm|3|
+|05/30|Misha|Mockup Work (Figma) and Presentation|7:00pm|3|
+|06/01|Misha|Proposal document|6:00pm|4|
+|06/02|Misha|Proposal document|12:30pm|1|
+|06/02|Misha|Proposal document|3:00pm|2|
+|06/05|Misha|Open AI API learning and testing|8:30|2|
+|06/08|Misha|Task organization|7:30|3.5|
