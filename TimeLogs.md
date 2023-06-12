@@ -18,3 +18,6 @@ This holds the time logs for the CS446 project.
 |06/02|Misha|Proposal document|3:00pm|2|
 |06/05|Misha|Open AI API learning and testing|8:30|2|
 |06/08|Misha|Task organization|7:30|3.5|
+|06/09|Misha|Finish Main web scraper work|7:30|4|
+|06/10|Misha|Web Scraper bug fixing|5:00|1|
+|06/11|Misha|Making web scraper work again|8:00|2|
