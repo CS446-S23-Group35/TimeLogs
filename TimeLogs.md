@@ -11,11 +11,14 @@ This holds the time logs for the CS446 project.
 | 05/28        | Snehit | Proposal work                           | 5:30pm       | 2       |
 | 05/28        | Sarvesh | Proposal work                           | 5:30pm       | 2       |
 | 05/29        |Misha| Mockup UI (Figma)                       | 4:00pm       | 3       |
+| 05/29        | Sarvesh | Mockups and Discussion on Functionalities  | 4:50pm       | 2.5       |
 | 05/30        |Misha| Mockup Work (Figma) and Presentation    | 7:00pm       | 3       |
 | 05/31        |Snehit| Proposal Presentation script & rehersal | 11:30pm      | 2       |
+| 05/31        |Sarvesh| Proposal Presentation rehersal | 11:30am      | 2       |
 | 06/01        |Misha| Proposal document                       | 6:00pm       | 4       |
 | 06/01        |Snehit| Proposal document work                  | 7:00pm       | 3       |
 | 06/02        |Misha| Proposal document                       | 12:30pm      | 1       |
+| 06/02        |Sarvesh| Proposal document                       | 1:00pm       | 2       |
 | 06/02        |Misha| Proposal document                       | 3:00pm       | 2       |
 | 06/02        |Snehit| Proposal document formatting            | 3:00pm       | 2       |
 | 06/05        |Misha| Open AI API learning and testing        | 8:30         | 2       |
