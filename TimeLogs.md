@@ -28,3 +28,4 @@ This holds the time logs for the CS446 project.
 | 06/11        |Misha| Making web scraper work again           | 8:00         | 2       |
 | 06/12        |Snehit| Buddy Evaluation work                   | 5:00pm       |3        |
 | 06/14        |Sarvesh| Buddy Evaluation Deliverable                   | 5:00pm       |3        |
+| 06/16        |Misha| Buddy Evaluation Touch Up                   | 3:30pm       |1.5        |
