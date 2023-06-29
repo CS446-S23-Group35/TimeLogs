@@ -31,3 +31,6 @@ This holds the time logs for the CS446 project.
 | 06/16        |Misha| Buddy Evaluation Touch Up                   | 3:30pm       |1.5        |
 | 06/25        |Misha| Work session planning                   | 1:00pm       |0.5        |
 | 06/25        |Misha| Work session, recipe cleanup, planning and app | 3:30pm       |7        |
+| 06/27        |Misha| Work session before prototype demo. App gRPC work.| 5:45pm       |6.25        |
+| 06/28        |Misha| Work session before prototype demo. App gRPC work.| 12:00am       |5        |
+| 06/28        |Misha| Debug serber| 11:30am       |0.5        |
