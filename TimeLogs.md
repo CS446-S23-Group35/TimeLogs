@@ -36,3 +36,5 @@ This holds the time logs for the CS446 project.
 | 06/28        |Misha| Debug server| 11:30am       |0.5        |
 | 07/05        |Misha| Infrastructure discussion| 1:15pm       |1        |
 | 07/05        |Misha| Debug Team android studio setup| 6:00pm       |0.5        |
+| 07/07        |Misha| Research Terraform RDS| 4:30pm       |1        |
+| 07/07        |Misha| Add User Database in Terraform| 10:30pm       |1.5        |
