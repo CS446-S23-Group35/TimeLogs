@@ -48,3 +48,5 @@ This holds the time logs for the CS446 project.
 | 07/05        |Misha| Debug Team android studio setup| 6:00pm       |0.5        |
 | 07/07        |Misha| Research Terraform RDS| 4:30pm       |1        |
 | 07/07        |Misha| Add User Database in Terraform| 10:30pm       |1.5        |
+| 07/09        | Ahmed Bilal | Receipt Scanner setup implementation, parsing, and testing | 9:00pm       |5.5        |
+
