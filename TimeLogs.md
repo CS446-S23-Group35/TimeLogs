@@ -56,3 +56,5 @@ This holds the time logs for the CS446 project.
 | 07/07        |Misha| Research Terraform RDS| 4:30pm       |1        |
 | 07/07        |Misha| Add User Database in Terraform| 10:30pm       |1.5        |
 | 07/09        | Ahmed Bilal | Receipt Scanner setup implementation, parsing, and testing | 9:00pm       |5.5        |
+| 07/10        | Misha Melnyk | Discussion and trying to package server jar | 3:30pm       | 1.25       |
+| 07/12        | Misha Melnyk | Getting server jar packaging working. Defining ECS task to run image containing jar | 4:30pm       | 5       |
