@@ -58,3 +58,6 @@ This holds the time logs for the CS446 project.
 | 07/09        | Ahmed Bilal | Receipt Scanner setup implementation, parsing, and testing | 9:00pm       |5.5        |
 | 07/10        | Misha Melnyk | Discussion and trying to package server jar | 3:30pm       | 1.25       |
 | 07/12        | Misha Melnyk | Getting server jar packaging working. Defining ECS task to run image containing jar | 4:30pm       | 5       |
+| 07/14        | Misha Melnyk | D4 example 3 diagram | 12:45pm       | 0.25       |
+| 07/14        | Misha Melnyk | D4 example 3 description and editing | 3:30pm       | 1       |
+| 07/16        | Misha Melnyk | Infrastructure debugging (Couldn't pull ECR image from ECS :( ), took all day :/ | 2:45pm       | 7.25       |
