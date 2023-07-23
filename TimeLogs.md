@@ -74,3 +74,7 @@ This holds the time logs for the CS446 project.
 | 07/12        | Snehit       | Revising and polishing D4 Document                                                                                        | 2:30pm       | 0.5                |
 | 07/16        | Misha Melnyk | Infrastructure debugging (Couldn't pull ECR image from ECS :( ), took all day :/                                          | 2:45pm       | 7.25               |
 | 07/17        | Snehit       | Brainstorming D5 real-life examples of design pattern w/ Sarvesh, Ahmed                                                   | 2:30pm       | 0.75               |
+| 07/17       | Misha Melnyk | Agenda Meeting                                         | 3:30pm       | 1.25               |
+| 07/18       | Misha Melnyk | Fix Jar packaging, create scripts to automatically dockerize and push the application to ECR | 3:30pm       | 2               |
+| 07/22       | Misha Melnyk | Set up domain for backend                                         | 10:30pm       | 0.75               |
+| 07/23       | Misha Melnyk | In person work session                                         | 11:30pm       | 4               |
