@@ -76,5 +76,8 @@ This holds the time logs for the CS446 project.
 | 07/17        | Snehit       | Brainstorming D5 real-life examples of design pattern w/ Sarvesh, Ahmed                                                   | 2:30pm       | 0.75               |
 | 07/17       | Misha Melnyk | Agenda Meeting                                         | 3:30pm       | 1.25               |
 | 07/18       | Misha Melnyk | Fix Jar packaging, create scripts to automatically dockerize and push the application to ECR | 3:30pm       | 2               |
+| 07/19       | Sarvesh S | Changing structure of FragmentInventort                                         | 3:00pm       | 2               |
+| 07/20       | Sarvesh S | Got pop up cards for inventory items working                                         | 11am       | 3              |
+| 07/20       | Sarvesh S | D5 Deliverable Design Pattern Example                                         | 6pm       | 3              |
 | 07/22       | Misha Melnyk | Set up domain for backend                                         | 10:30pm       | 0.75               |
 | 07/23       | Misha Melnyk | In person work session                                         | 11:30pm       | 4               |
