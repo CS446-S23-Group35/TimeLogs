@@ -73,16 +73,16 @@ This holds the time logs for the CS446 project.
 | 07/14        | Misha | D4 example 3 description and editing                                                                                      | 3:30pm       | 1                  |
 | 07/12        | Snehit       | Creation of taxi company example for serverless arch w/ diagram                                                           | 1:00pm       | 1.5                |
 | 07/12        | Snehit       | Revising and polishing D4 Document                                                                                        | 2:30pm       | 0.5                |
-| 07/16        | Misha Melnyk | Infrastructure debugging (Couldn't pull ECR image from ECS :( ), took all day :/                                          | 2:45pm       | 7.25               |
+| 07/16        | Misha | Infrastructure debugging (Couldn't pull ECR image from ECS :( ), took all day :/                                          | 2:45pm       | 7.25               |
 | 07/17       | Sarvesh S | Agenda Meeting and discussion of Design patterns                                         | 4pm       | 1.25               |
 | 07/17        | Snehit       | Brainstorming D5 real-life examples of design pattern w/ Sarvesh, Ahmed                                                   | 2:30pm       | 0.75               |
-| 07/17       | Misha Melnyk | Agenda Meeting                                         | 3:30pm       | 1.25               |
-| 07/18       | Misha Melnyk | Fix Jar packaging, create scripts to automatically dockerize and push the application to ECR | 3:30pm       | 2               |
+| 07/17       | Misha | Agenda Meeting                                         | 3:30pm       | 1.25               |
+| 07/18       | Misha | Fix Jar packaging, create scripts to automatically dockerize and push the application to ECR | 3:30pm       | 2               |
 | 07/19       | Sarvesh S | Changing structure of FragmentInventort                                         | 3:00pm       | 2               |
 | 07/20       | Sarvesh S | Got pop up cards for inventory items working                                         | 11am       | 3              |
 | 07/20       | Sarvesh S | D5 Deliverable Design Pattern Example                                         | 6pm       | 3              |
-| 07/22       | Misha Melnyk | Set up domain for backend                                         | 10:30pm       | 0.75               |
-| 07/23       | Misha Melnyk | In person work session                                         | 11:30pm       | 4               |
+| 07/22       | Misha | Set up domain for backend                                         | 10:30pm       | 0.75               |
+| 07/23       | Misha | In person work session                                         | 11:30pm       | 4               |
 | 07/23       | Misha | Create Searcher interface in API to query OpenSearch. Helped Ahmed M. with testing cognito/amplify signin/signup in backend (he did frontend).                                         | 10:00pm       | 6.5               |
 | 07/24       | Misha |                Trying to make token authentication work through load-balancer                          | 6:30pm       | 1.25               |
 | 07/24       | Misha | Create Springboot Auth                                         | 10:00pm       | 2.25               |
