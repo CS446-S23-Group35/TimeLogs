@@ -63,14 +63,14 @@ This holds the time logs for the CS446 project.
 | 07/08        | Snehit       | Added data transfer objects (fooditem model & user) to springboot repo, discussed schema                                  | 1:00pm       | 0.5                |
 | 07/09        | Snehit       | Implemented layered architecture style for CRUD in springboot repo, added Spring annotations for object lifecycle control | 2:00pm       | 2.0                |
 | 07/09        | Ahmed Bilal  | Receipt Scanner setup implementation, parsing, and testing                                                                | 9:00pm       | 5.5                |
-| 07/10        | Misha Melnyk | Discussion and trying to package server jar                                                                               | 3:30pm       | 1.25               |
+| 07/10        | Misha | Discussion and trying to package server jar                                                                               | 3:30pm       | 1.25               |
 | 07/10        | Snehit       | Discussion on server packaging and deployment w/ Misha & Ahmed M                                                          | 2:00pm       | 1.25               |
 | 07/10        | Sarvesh       | Discussion on remaining views (Diet Restriction, Calendar)                                                          | 3:00pm     | 2               |
 | 07/11        | Snehit       | Brainstorming potential D4 examples of real-life architecture                                                             | 2:00pm       | 0.75               |
 | 07/12        | Snehit       | Creation of flight control tower example for client-server arch w/ diagram                                                | 3:00pm       | 1.75               |
-| 07/12        | Misha Melnyk | Getting server jar packaging working. Defining ECS task to run image containing jar                                       | 4:30pm       | 5                  |
-| 07/14        | Misha Melnyk | D4 example 3 diagram                                                                                                      | 12:45pm      | 0.25               |
-| 07/14        | Misha Melnyk | D4 example 3 description and editing                                                                                      | 3:30pm       | 1                  |
+| 07/12        | Misha | Getting server jar packaging working. Defining ECS task to run image containing jar                                       | 4:30pm       | 5                  |
+| 07/14        | Misha | D4 example 3 diagram                                                                                                      | 12:45pm      | 0.25               |
+| 07/14        | Misha | D4 example 3 description and editing                                                                                      | 3:30pm       | 1                  |
 | 07/12        | Snehit       | Creation of taxi company example for serverless arch w/ diagram                                                           | 1:00pm       | 1.5                |
 | 07/12        | Snehit       | Revising and polishing D4 Document                                                                                        | 2:30pm       | 0.5                |
 | 07/16        | Misha Melnyk | Infrastructure debugging (Couldn't pull ECR image from ECS :( ), took all day :/                                          | 2:45pm       | 7.25               |
@@ -83,3 +83,8 @@ This holds the time logs for the CS446 project.
 | 07/20       | Sarvesh S | D5 Deliverable Design Pattern Example                                         | 6pm       | 3              |
 | 07/22       | Misha Melnyk | Set up domain for backend                                         | 10:30pm       | 0.75               |
 | 07/23       | Misha Melnyk | In person work session                                         | 11:30pm       | 4               |
+| 07/23       | Misha | Create Searcher interface in API to query OpenSearch. Helped Ahmed M. with testing cognito/amplify signin/signup in backend (he did frontend).                                         | 10:00pm       | 6.5               |
+| 07/24       | Misha |                Trying to make token authentication work through load-balancer                          | 6:30pm       | 1.25               |
+| 07/24       | Misha | Create Springboot Auth                                         | 10:00pm       | 2.25               |
+| 07/25       | Misha | Final Stretch: Recipe processing (majority), bulk formatting recipes for opensearch, create generic way of creating http-endpoint-calling methods (Network Manager in App). Infrastructure debugging. | 12:00pm       | 15               |
+| 07/26       | Misha | Touch up recipe processing | 10:00am       | 1.25  |
