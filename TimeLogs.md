@@ -113,7 +113,6 @@ This holds the time logs for the CS446 project.
 | 07/23        | Misha        | In person work session                                                                                                                                                                                | 11:30pm      | 4                  |
 | 07/23        | Snehit       | Conducted meeting w/group over task planning, made agenda document                                                                                                                                    | 1:00pm       | 3                  |
 | 07/23        | Ahmed M      | Meetup to discuss task delegation                                                                                                                                                                     | 1:00pm       | 3                  |
-
 | 07/23        | Sarvesh S      | Worked on creating calendar view                                                                                                                                                                     | 5:00pm       | 2                 |
 | 07/23        | Ahmed Bilal        | In person work session + Meetup to discuss task delegation + Correcting Image Rotation based on Device Camera Orientation | 11:30am      | 4                  |
 | 07/23        | Ahmed M      | Work on user registration/sign-in UI as well as connecting app to Cognito via Amplify                                                                                                                 | 6:00pm       | 7                  |
@@ -157,5 +156,4 @@ This holds the time logs for the CS446 project.
 | 07/31        | Snehit       | D7 document creation, work on pivot section & challenges                                                                                                                                              | 2:30pm       | 2.75               |
 | 08/01        | Sarvesh S     | D7 document ind. contribution, review, and harm mitigation                                                                                                                                                                         | 2:00pm       | 1               |
 | 08/01        | Snehal S     | D7 document ind. contribution                                                                                                                                                                         | 2:00pm       | 0.75               |
-
 | 08/01        | Ahmed M | D7 - final status, individual contribution | 1:00pm | 1.25 |
