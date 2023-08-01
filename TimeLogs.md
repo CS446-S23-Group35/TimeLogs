@@ -157,3 +157,4 @@ This holds the time logs for the CS446 project.
 | 08/01        | Sarvesh S     | D7 document ind. contribution, review, and harm mitigation                                                                                                                                                                         | 2:00pm       | 1               |
 | 08/01        | Snehal S     | D7 document ind. contribution                                                                                                                                                                         | 2:00pm       | 0.75               |
 | 08/01        | Ahmed M | D7 - final status, individual contribution | 1:00pm | 1.25 |
+| 08/01        | Ahmed Bilal | D7 - final status, individual contribution | 1:00pm | 1.25 |
