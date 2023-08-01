@@ -128,4 +128,5 @@ This holds the time logs for the CS446 project.
 | 07/28        | Ahmed Bilal       | D6: Scanner Figures Complete +  Report fixing/formating | 12:30am       | 0.67                |
 | 07/28        | Ahmed Bilal       | D6: Fixing/Reformatting Report + Explaining Receipt Scanner Design Pattern | 11:14am | 0.92                |
 | 07/28        | Snehit       | D6 work on Functional Properties section & Layered design pattern section + diagrams                                                                                                                  | 10:00am      | 4.25               |
+| 07/28        | Ahmed Bilal       | Refactored Inventroy View + Fixed Inventory View to Fetch, Add, MultiDelete + MultiAdd from EditItems View containing Receipt Scanner Results, to Items Database | 4:27pm | 8.55            |
 | 07/31        | Snehit       | D7 document creation, work on pivot section & challenges                                                                                                                                              | 2:30pm       | 2.75               |
